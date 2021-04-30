@@ -10,9 +10,9 @@
 The assignment is implemented in Python using the NLP tool spaCy, the ScikitLearn library (to compute the classification report) and the Pandas library (to render dataframes for better visualization). All these libraries must be installed on the machine.
 
 
-For the statistical evaluation part, the dataset used is “conll_2003” (available in folder ‘src’), which is down-loadable from the Github ‘data’ folder. In the Github ‘code’ folder, a Python module called “conll.py” is also provided, which is used to perform accuracy evaluation using the conll_2003 dataset.
+For the statistical evaluation part, the dataset used is “conll_2003” (available in folder ‘src’), which is downloadable from the Github ‘data’ folder. In the Github ‘code’ folder, a Python module called “conll.py” is also provided, which is used to perform accuracy evaluation using the conll_2003 dataset.
 
 
-For all the assignment questions, a MAIN section is pro-vided, which includes one or more default sentences, the call to the implemented function and the printing of the function return items to the standard output.
+For all the assignment questions, a MAIN section is provided, which includes one or more default sentences, the call to the implemented function and the printing of the function return items to the standard output.
 
 
